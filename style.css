@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: url("./img/table.png");
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.btn-startGame{
+    margin-bottom: 10px;
+}
+
+.btn-startGame, .btn-newCard{
+    background: goldenrod;
+    color: #016f32;
+    width: 250px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 3px;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+}
